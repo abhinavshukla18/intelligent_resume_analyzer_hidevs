@@ -1,0 +1,10 @@
+# Local vector database and temporary files
+chroma_db/
+*.pdf
+.env
+
+# Python cache & virtual environments
+__pycache__/
+*.pyc
+venv/
+.venv/

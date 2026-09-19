@@ -1,0 +1,3 @@
+We are looking for a Python Developer with experience in Data Analysis, SQL, and Machine Learning. 
+The ideal candidate should know Python, Pandas, NumPy, Git, and how to build REST APIs. 
+Strong problem-solving skills and experience with PostgreSQL or MySQL are required.
