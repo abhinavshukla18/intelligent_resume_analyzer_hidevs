@@ -1,6 +1,6 @@
 #  AI-Powered Resume & Job Description Analyzer
 
-**Live App:** [Insert Your Streamlit Cloud Link Here]
+**Live App:** : (https://resume-analyzer-ai-lynvrnotb44f46yjrshrxk.streamlit.app/)
 
 ##  Overview
 This AI-Powered Resume Analyzer is a Retrieval-Augmented Generation (RAG) web application designed to evaluate candidate resumes against specific job descriptions. It automates the screening process by semantically matching skills and experience, providing recruiters and HR professionals with accurate, bias-reduced candidate assessments.
